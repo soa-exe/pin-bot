@@ -1,8 +1,8 @@
 # Terms of Service
 
-**Last Updated:** [Insert Date, e.g., August 2, 2026]
+**Last Updated:** [August 2, 2026]
 
-Please read these Terms of Service ("Terms") carefully before using **[Insert Bot Name]** ("the Bot"), operated by **[Insert Your Name/Team Name]** ("us", "we", or "our"). 
+Please read these Terms of Service ("Terms") carefully before using **[PIN-BOT]** ("the Bot"), operated by **[K-PIN]** ("us", "we", or "our"). 
 
 By adding the Bot to your Discord server or interacting with it, you agree to be bound by these Terms. If you disagree with any part of the terms, you may not use the Bot.
 
