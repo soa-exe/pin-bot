@@ -1,17 +1,37 @@
-TERMS OF SERVICE AGREEMENT
+# Terms of Service
 
-This Terms of Service Agreement (the "Agreement") is entered into between [Anshul Chauhan] ("Bot Owner") and the user ("User") of the [Bot Name] Discord bot (the "Bot").
+**Last Updated:** [Insert Date, e.g., August 2, 2026]
 
-By using the Bot, the User agrees to be bound by the terms of this Agreement. If the User does not agree to the terms of this Agreement, they should immediately discontinue use of the Bot.
+Please read these Terms of Service ("Terms") carefully before using **[Insert Bot Name]** ("the Bot"), operated by **[Insert Your Name/Team Name]** ("us", "we", or "our"). 
 
-1. Use of the Bot: The Bot Owner grants the User a non-exclusive, non-transferable, limited license to use the Bot for personal or non-commercial purposes.
-2. Prohibited Use: The User may not use the Bot in any way that violates applicable laws, rules, or regulations or infringes upon the rights of any third party. The User may not use the Bot for any commercial purposes without the express written consent of the Bot Owner.
-3. Limitation of Liability: The Bot Owner shall not be liable for any damages arising out of the use or inability to use the Bot, including but not limited to, damages for loss of profits, loss of data, or other intangible losses.
-4. Modifications to the Bot: The Bot Owner may modify or discontinue the Bot at any time without notice. The User agrees that the Bot Owner shall not be liable to the User or any third party for any modification, suspension, or discontinuance of the Bot.
-5. Intellectual Property: The Bot and all intellectual property rights therein are and shall remain the property of the Bot Owner. The User agrees not to copy, modify, or distribute the Bot or any portion thereof without the express written consent of the Bot Owner.
-6. Indemnification: The User agrees to indemnify and hold harmless the Bot Owner, its affiliates, and their respective directors, officers, employees, and agents from any and all claims, damages, liabilities, costs, and expenses, including reasonable attorneys' fees, arising out of the User's use of the Bot.
-7. Termination: This Agreement may be terminated by either party at any time for any reason. Upon termination, the User must immediately cease all use of the Bot.
-8. Governing Law: This Agreement shall be governed by and construed in accordance with the laws of [Your country/state/province]. Any dispute arising under or in connection with this Agreement shall be resolved by arbitration in accordance with the rules of [Your arbitration provider].
-9. Entire Agreement: This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements or representations, whether written or oral, relating to the Bot.
+By adding the Bot to your Discord server or interacting with it, you agree to be bound by these Terms. If you disagree with any part of the terms, you may not use the Bot.
 
-By using the Bot, the User acknowledges that they have read this Agreement, understand it, and agree to be bound by its terms and conditions.
+## 1. Eligibility and Compliance
+* You must follow the official [Discord Terms of Service](https://discord.com) and [Discord Community Guidelines](https://discord.com).
+* You may not use this Bot for any illegal, malicious, or unauthorized purposes.
+
+## 2. Permitted Use and Restrictions
+You agree **NOT** to use the Bot to:
+* Abuse, spam, or exploit the Bot's commands or features.
+* Attempt to reverse-engineer, disrupt, or crash the Bot's hosting infrastructure.
+* Standardize or bypass any rate limits or security measures placed on the Bot.
+* Collect, scrape, or harvest user data from servers using this Bot.
+
+## 3. Data and Privacy
+* Your privacy matters to us. Please review our [Privacy Policy URL] to understand how we collect, use, and store data.
+* We reserve the right to log command usage for debugging, security, and analytical purposes.
+
+## 4. Termination of Service
+* We reserve the right to ban individual users or entire Discord servers from using the Bot at our sole discretion, without prior notice, for violating these Terms.
+* You can terminate this agreement at any time by kicking or banning the Bot from your Discord server.
+
+## 5. Disclaimer of Warranties
+The Bot is provided on an "AS IS" and "AS AVAILABLE" basis. We make no warranties that the Bot will be uninterrupted, error-free, or completely secure. We are not responsible for any data loss, server disruptions, or moderation actions resulting from the use of this Bot.
+
+## 6. Changes to Terms
+We reserve the right to modify these Terms at any time. We will notify users of major updates via [Insert Notification Method, e.g., our support server / a bot announcement command]. Continued use of the Bot after changes take effect constitutes acceptance of the new Terms.
+
+## 7. Contact Us
+If you have any questions about these Terms, please contact us at:
+* **Discord Support Server:** [Insert Invite Link]
+* **Email:** [Insert Email Address - Optional]
